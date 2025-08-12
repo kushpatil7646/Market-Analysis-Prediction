@@ -1,0 +1,16 @@
+Top 15 TF-IDF Keywords:
+great: 0.1239
+attributes: 0.1239
+sourced: 0.1239
+organic: 0.1132
+ground: 0.1075
+stone: 0.1075
+marinades: 0.0911
+steam: 0.0846
+sterilized: 0.0846
+powder: 0.0789
+non: 0.0763
+gmo: 0.0763
+free: 0.0762
+pesticide: 0.0762
+whole: 0.0741

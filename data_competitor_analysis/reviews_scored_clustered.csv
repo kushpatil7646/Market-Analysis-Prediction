@@ -1,0 +1,91 @@
+review_text, [],sentiment_score,cluster,pc1,pc2
+Organic Turmeric Powder - Gorgeous golden color but faint aroma.,[],0.3612,1,-0.36568022,-0.08918153
+"Premium Garam Masala Blend - Slightly stale, lacks punch.",[],0.0,1,0.39009902,0.4554399
+"Pure Red Chilli Powder - Overly dusty, loses vibrancy after cooking.",[],-0.3182,1,-0.24215704,0.027173318
+"Authentic Cumin Seeds - Slight bitterness, maybe over-roasted.",[],-0.3415,0,0.3388564,-0.4738235
+"Coriander Powder - Packaging wasn’t sealed properly, lost freshness.",[],-0.3182,1,-0.14611682,-0.031665444
+"Organic Turmeric Powder - Very faint flavor, color acceptable.",[],0.3182,1,-0.40379414,-0.06751454
+Premium Garam Masala Blend - Too clove-heavy for my liking.,[],0.4019,1,0.40655333,0.46860707
+Pure Red Chilli Powder - Flavorless and disappointing.,[],-0.4939,1,-0.15838437,0.074828275
+"Authentic Cumin Seeds - Poor packaging, spices lost aroma.",[],-0.6597,0,0.33639795,-0.5069426
+Coriander Powder - Bland and lacking punch.,[],0.0,1,-0.1953367,0.13859908
+"Organic Turmeric Powder - Lacked freshness, flavor felt flat.",[],0.0,1,-0.3241262,-0.05512547
+"Premium Garam Masala Blend - Too mild, almost no aroma.",[],-0.228,1,0.42603412,0.43714604
+Pure Red Chilli Powder - Tasteless and stale-smelling.,[],0.0,1,-0.21019162,0.046278138
+"Authentic Cumin Seeds - Overly coarse grind, not pleasant.",[],-0.4023,0,0.3757272,-0.39349338
+Coriander Powder - Weak color and dull taste.,[],-0.6808,1,-0.28893906,0.08639696
+Organic Turmeric Powder - A bit dusty and uneven quality.,[],0.0,1,-0.4492559,-0.058715086
+"Premium Garam Masala Blend - Strange aftertaste, won’t buy again.",[],-0.2023,1,0.44318858,0.38116205
+Pure Red Chilli Powder - Color faded too quickly in cooking.,[],0.0,1,-0.22041509,0.01879636
+"Authentic Cumin Seeds - Unpleasant aftertaste, maybe old stock.",[],-0.4767,0,0.34433407,-0.4884269
+"Coriander Powder - Clumpy texture, seems moisture-affected.",[],0.0,1,-0.22092651,0.058549453
+"Organic Turmeric Powder - Bitter undertone, unusual taste.",[],-0.4215,1,-0.3636464,-0.07963529
+"Premium Garam Masala Blend - Imbalanced flavors, cardamom overpowers.",[],0.0,1,0.4466282,0.3443414
+"Pure Red Chilli Powder - Aroma missing, feels like low-grade.",[],0.0772,1,-0.15600552,0.06070373
+"Authentic Cumin Seeds - Lacked aroma, disappointing quality.",[],-0.4939,0,0.41490167,-0.46084243
+"Coriander Powder - Dull flavor, needed double quantity.",[],-0.4019,1,-0.23161647,0.10104978
+"Organic Turmeric Powder - Off smell, not fresh at all.",[],-0.2411,1,-0.34479555,-0.14865837
+"Premium Garam Masala Blend - Spices tasted flat, no depth.",[],-0.296,1,0.3816668,0.3981165
+"Pure Red Chilli Powder - Gritty texture, unpleasant mouthfeel.",[],-0.4767,1,-0.14697097,0.12308357
+"Authentic Cumin Seeds - Burnt taste, unsuitable for delicate dishes.",[],0.0516,0,0.32208446,-0.4817721
+"Coriander Powder - Lifeless aroma, almost no taste.",[],-0.228,1,-0.15911318,0.05186292
+"Organic Turmeric Powder - Weak flavor, color slightly artificial-looking.",[],-0.4404,1,-0.4014211,-0.08388346
+"Premium Garam Masala Blend - Harsh spice balance, unpleasant bite.",[],-0.7184,1,0.3747359,0.43639702
+Pure Red Chilli Powder - Lacks heat despite bright color.,[],-0.3412,1,-0.2596174,0.09137467
+"Authentic Cumin Seeds - Hard and dry, doesn’t toast well.",[],0.1779,0,0.37061852,-0.45216182
+"Coriander Powder - Old batch, flavor completely faded.",[],0.0,1,-0.1830241,0.027169606
+"Organic Turmeric Powder - Too fine, clumps badly in cooking.",[],-0.3182,1,-0.36510918,-0.077951364
+"Premium Garam Masala Blend - Overpowering cinnamon, not well balanced.",[],-0.2057,1,0.37304386,0.4865231
+"Pure Red Chilli Powder - Strange earthy smell, not fresh.",[],-0.4141,1,-0.26048887,0.0111315185
+"Authentic Cumin Seeds - Very pale, missing the usual punch.",[],-0.3566,0,0.3231403,-0.46222717
+"Coriander Powder - Texture sandy, lacks smoothness.",[],0.0,1,-0.1681994,0.15038104
+"Organic Turmeric Powder - Off taste, possibly rancid.",[],-0.5423,1,-0.38995624,-0.0782621
+"Premium Garam Masala Blend - Weak aroma, flat taste.",[],-0.4404,1,0.4146517,0.427506
+"Pure Red Chilli Powder - Harsh bitterness, unpleasant aftertaste.",[],-0.8271,1,-0.17570424,0.042715967
+"Authentic Cumin Seeds - Musty aroma, likely old stock.",[],0.0,0,0.34710732,-0.47204193
+Coriander Powder - Color too dull for fresh coriander.,[],-0.1027,1,-0.30873033,0.10768474
+"Organic Turmeric Powder - Packaging was damaged, lost aroma.",[],-0.6369,1,-0.3182548,-0.13247956
+"Premium Garam Masala Blend - Extremely bland, no distinct spice notes.",[],-0.3566,1,0.40563774,0.48233202
+"Pure Red Chilli Powder - Taste flat, no chili heat.",[],-0.296,1,-0.20396619,0.10128435
+"Authentic Cumin Seeds - Seeds shriveled, likely poor harvest.",[],-0.4767,0,0.39305753,-0.57400924
+Coriander Powder - Clumpy and uneven grind.,[],0.0,1,-0.15606922,0.10633184
+"Organic Turmeric Powder - Very muted aroma, fades when cooked.",[],0.0,1,-0.3508017,-0.087305285
+"Premium Garam Masala Blend - Too heavy on cloves, unbalanced.",[],0.0,1,0.41358018,0.44547018
+"Pure Red Chilli Powder - Red color looks artificial, poor taste.",[],-0.4767,1,-0.23388612,0.03896005
+"Authentic Cumin Seeds - Flavorless, probably stored too long.",[],0.0,0,0.3773123,-0.5364765
+"Coriander Powder - Sour smell, possibly spoiled.",[],0.0,1,-0.24592769,0.019981086
+"Organic Turmeric Powder - Not worth the price, lacks depth.",[],-0.1695,1,-0.32969,-0.02666135
+Premium Garam Masala Blend - Slight chemical aftertaste.,[],0.0,1,0.3636877,0.4214773
+"Pure Red Chilli Powder - Burns quickly, loses flavor fast.",[],-0.3182,1,-0.18735965,0.02414368
+"Authentic Cumin Seeds - Inconsistent quality, some bitter seeds.",[],-0.4215,0,0.41802293,-0.5534417
+"Coriander Powder - No aroma, flat taste.",[],-0.296,1,-0.17008755,0.07218114
+"Organic Turmeric Powder - Too coarse, gritty texture.",[],0.0,1,-0.3765663,-0.022558914
+"Premium Garam Masala Blend - Dull flavor, spices feel lifeless.",[],-0.4019,1,0.3605068,0.45795622
+"Pure Red Chilli Powder - Smells stale, lacks brightness.",[],0.3818,1,-0.23149244,0.07801098
+"Authentic Cumin Seeds - Toasted poorly, didn’t release aroma.",[],0.0,0,0.38770851,-0.49983662
+Coriander Powder - Looks fresh but tastes flat.,[],0.1655,1,-0.20227908,0.07596462
+"Organic Turmeric Powder - Weak flavor, faded color.",[],-0.4404,1,-0.4081502,-0.08989576
+"Premium Garam Masala Blend - Lacks complexity, tastes one-note.",[],0.0,1,0.48709586,0.49703112
+"Pure Red Chilli Powder - Minimal heat, more like paprika.",[],0.4201,1,-0.18684006,0.1507969
+"Authentic Cumin Seeds - Odd smell, not appetizing.",[],-0.3182,0,0.33706445,-0.53737044
+"Coriander Powder - Pale color, flavorless.",[],0.0,1,-0.25505546,0.07668421
+"Organic Turmeric Powder - Moisture inside pack, clumped badly.",[],-0.4767,1,-0.34955528,-0.13918275
+"Premium Garam Masala Blend - Too powdery, sticks together.",[],0.0,1,0.3609706,0.43177325
+Pure Red Chilli Powder - Flavor inconsistent batch to batch.,[],0.0,1,-0.080694266,-0.0049160277
+"Authentic Cumin Seeds - Overly dry, crumbles easily.",[],0.34,0,0.3752224,-0.5226762
+Coriander Powder - Aroma fades within minutes.,[],0.0,1,-0.14840084,0.042996533
+"Organic Turmeric Powder - Harsh, unpleasant bitterness.",[],-0.8271,1,-0.36171523,-0.056695588
+"Premium Garam Masala Blend - Missing depth, doesn’t blend well.",[],-0.0258,1,0.50671464,0.4807025
+"Pure Red Chilli Powder - Grainy texture, unpleasant.",[],-0.4767,1,-0.228053,0.09560492
+Authentic Cumin Seeds - Tasted burnt even without roasting.,[],0.0,0,0.37586957,-0.5102604
+"Coriander Powder - No freshness, likely very old.",[],-0.296,1,-0.20794678,0.01752316
+"Organic Turmeric Powder - Dull yellow, lacks vibrancy.",[],-0.4019,1,-0.4194312,-0.038635965
+"Premium Garam Masala Blend - Strange sour note, off-putting.",[],-0.2023,1,0.38704073,0.44476262
+"Pure Red Chilli Powder - Weak aroma, dull heat.",[],-0.6808,1,-0.23395105,0.062478416
+"Authentic Cumin Seeds - Not aromatic, poor quality.",[],0.3724,0,0.370722,-0.52153045
+"Coriander Powder - Harsh taste, not smooth.",[],-0.4404,1,-0.19538596,0.12770429
+"Organic Turmeric Powder - Barely any flavor, disappointing.",[],-0.4472,1,-0.30705467,-0.047457978
+"Premium Garam Masala Blend - Heavy on fennel, unbalanced.",[],0.0,1,0.4121336,0.4986827
+"Pure Red Chilli Powder - Odd smell, like dust.",[],0.0516,1,-0.2952005,0.018462542
+Authentic Cumin Seeds - Aroma almost nonexistent.,[],0.0,0,0.39395687,-0.5095643
+Coriander Powder - Weak and watery taste in curries.,[],-0.4404,1,-0.13253522,0.05096386

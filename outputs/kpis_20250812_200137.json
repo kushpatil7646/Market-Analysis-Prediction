@@ -1,0 +1,13 @@
+{
+  "timestamp": "20250812_200137",
+  "records": 1000,
+  "lookback_months": 12,
+  "forecast_horizon_months": 6,
+  "exog_method": "linreg",
+  "exog_window": 24,
+  "metrics": {
+    "MAE": 8.615,
+    "RMSE": 10.542,
+    "MAPE_percent": 2.535
+  }
+}
