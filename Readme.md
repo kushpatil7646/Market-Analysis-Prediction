@@ -1,7 +1,7 @@
 # 📊 Spice Market Analysis & Forecasting
 
 ## Overview
-This project performs **data-driven market analysis** and **demand forecasting** for spice products using:
+This project delivers **data-driven market insights** and **demand forecasting** for spice products using:
 - **LSTM-based Time Series Forecasting**
 - **NLP-based Competitor Analysis**
 - **Customer Review Sentiment Clustering**
@@ -37,10 +37,13 @@ The workflow covers:
 | MAPE   | 2.54% |
 
 #### **Training History**
-![Training History](data_competitor_analysis/training_history.png)
+![Training History](./outputs/training_history_20250812_200137.png)
 
-#### **Forecast Plot**
-![Demand Forecast](data_competitor_analysis/demand_forecast.png)
+#### **Forecast with 6-Month Projection**
+![6-Month Forecast](./outputs/history_plus_6mo_forecast_20250812_200137.png)
+
+#### **Demand Forecast (Test Set)**
+![Demand Forecast Test](./outputs/demand_forecast_test_20250812_200137.png)
 
 ---
 
@@ -56,13 +59,16 @@ The workflow covers:
 
 ### **Outputs**
 #### **Word Cloud of Keywords**
-![Word Cloud](data_competitor_analysis/wordcloud.png)
+![Word Cloud](./data_competitor_analysis/plots/wordcloud.png)
 
-#### **Price Distribution by Brand**
-![Price Distribution](data_competitor_analysis/price_distribution.png)
+#### **Top TF-IDF Terms**
+![TF-IDF Top Terms](./data_competitor_analysis/plots/tfidf_top_terms.png)
+
+#### **Price Histogram**
+![Price Histogram](./data_competitor_analysis/plots/price_histogram.png)
 
 #### **Feature Correlations**
-![Feature Correlation Matrix](data_competitor_analysis/feature_correlations.png)
+![Feature Correlation Matrix](./outputs/feature_correlations_20250812_200137.png)
 
 ---
 
@@ -81,7 +87,7 @@ The workflow covers:
 | 1       | Negative or Critical Feedback  | -0.45         |
 
 ### **Cluster Visualization**
-![Review Clusters](data_competitor_analysis/review_clusters.png)
+![Review Clusters](./data_competitor_analysis/review_clusters.png)
 
 ---
 
@@ -91,11 +97,14 @@ The workflow covers:
 |------|-------------|
 | `reviews_sentiment_clustering.xlsx` | Multi-sheet report: cluster summary, top examples, full data |
 | `reviews_scored_clustered.csv` | Reviews with sentiment & cluster assignments |
-| `training_history.png` | LSTM training loss curve |
-| `demand_forecast.png` | Predicted vs actual demand |
+| `training_history_20250812_200137.png` | LSTM training loss curve |
+| `history_plus_6mo_forecast_20250812_200137.png` | Predicted demand with future 6-month projection |
+| `demand_forecast_test_20250812_200137.png` | Predicted vs actual demand (test set) |
 | `wordcloud.png` | Competitor product keyword cloud |
-| `price_distribution.png` | Brand price comparison |
-| `feature_correlations.png` | Correlation heatmap |
+| `tfidf_top_terms.png` | Top terms from TF-IDF analysis |
+| `price_histogram.png` | Product price distribution |
+| `feature_correlations_20250812_200137.png` | Correlation heatmap |
+| `review_clusters.png` | Customer review clustering plot |
 
 ---
 
