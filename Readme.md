@@ -108,6 +108,8 @@ The workflow covers:
 
 ---
 
+- data is generated synthetically, can be implemented on real dataset
+  
 ## 🚀 How to Run
 
 ```bash
